@@ -1,5 +1,4 @@
 x=int(input("inserisci il numero: "))
-i=0
 result=1
 for i in range (0,x):
     result*=(x-i)
