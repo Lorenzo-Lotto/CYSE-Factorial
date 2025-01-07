@@ -1,6 +1,7 @@
 x=int(input("inserisci il numero: "))
 result=1
-for i in range (0,x):
+i=0
+while i<x:
     result*=(x-i)
-    
+    i+=1
 print("Il fattoriale di" , x , "è:", result)
