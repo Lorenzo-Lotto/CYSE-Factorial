@@ -4,3 +4,5 @@ for i in range (0,x):
     result*=(x-i)
     
 print("Il fattoriale di" , x , "è:", result)
+
+#madificato by DIO
