@@ -6,3 +6,4 @@ for i in range (0,x):
 print("Il fattoriale di" , x , "è:", result)
 
 #madificato by DIO
+#modifca con new brach
